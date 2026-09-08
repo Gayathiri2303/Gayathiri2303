@@ -1,102 +1,121 @@
-# Hi, I'm Gayathiri R 👋
+<div align="center">
 
-### Aspiring Data Scientist | Python | SQL | Machine Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gayathiri%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18"/>
 
-I'm a Mathematics graduate passionate about **Data Science, Machine Learning, and building practical data-driven applications**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+real+deployed+projects;Turning+data+into+decisions;Exploring+Machine+Learning+%26+AI;From+notebook+to+live+deployment" alt="Typing SVG" />
 
-I enjoy working with data, developing machine learning models, creating dashboards, and turning real-world problems into useful software solutions.
+<br/>
 
----
+**🎓 B.Sc. Mathematics&nbsp; · &nbsp;🎯 Data Science & AI/ML&nbsp; · &nbsp;📍 Tamil Nadu, India**
 
-## 🚀 About Me
+<br/>
 
-* 🎓 B.Sc. Mathematics graduate
-* 💻 Interested in **Data Science, Data Analytics & Machine Learning**
-* 🐍 Strong interest in Python and data analysis
-* 📊 Experienced with data preprocessing, visualization and machine learning
-* 🏠 Currently working on **Real Estate AI & House Price Prediction**
-* 🔍 Interested in research and practical AI applications
-* 🌱 Currently improving my skills in **Machine Learning, APIs and deployment**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/gayathiri23)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=A78BFA)](mailto:gayathirirajkumar95@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/Gayathiri2303)
 
----
+</div>
 
-## 🛠️ Skills
+<br/>
 
-### Programming & Data
+## 👋 About Me
 
-* Python
-* SQL
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
+Mathematics graduate transitioning into Data Science and AI/ML engineering. I don't stop at the notebook — I take projects all the way to live deployment on cPanel and VPS. Completed a 3-month Data Science Internship building real-world web apps for property data, image processing, and AI-assisted workflows.
 
-### Machine Learning
+| | |
+|---|---|
+| **Focus** | Machine Learning & Predictive Modeling · Computer Vision & Image Processing · Full-Stack Deployment (Flask, FastAPI) |
+| **Currently learning** | Advanced Machine Learning · Model Deployment at Scale · REST APIs |
+| **Mindset** | Learn → Build → Deploy → Improve |
 
-* Regression
-* Classification
-* Clustering
-* Random Forest
-* K-Means
-* Model Evaluation
-* Feature Engineering
+<br/>
 
-### Tools & Technologies
+## 🛠️ Tech Stack
 
-* Git & GitHub
-* Excel
-* MySQL
-* MongoDB
-* FastAPI
-* HTML & CSS
-* REST APIs
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=python,mysql"/></p>
 
----
+**Backend & Database**
+<p><img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,mongodb"/></p>
 
-## 📌 Featured Projects
+**Machine Learning & Data**
+<p><img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow"/></p>
+
+**Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/></p>
+
+<br/>
+
+## 🚀 Featured Projects
 
 ### 🏠 Real Estate AI
+Real estate application combining ML-based property price prediction, property analytics, and AI-assisted image analysis — with mortgage calculation, voice search, and image upload.
+**Stack:** Python · Machine Learning · Computer Vision · Flask
+🔗 [Repo](#) · 🌐 [Live Demo](#)
 
-An AI-powered real estate application focused on property analysis and house price prediction.
+### 🏘️ AI Property Inspection
+AI-assisted property inspection web app for property image processing, address verification, and structured inspection workflows.
+**Stack:** Python · Computer Vision · Image Processing · Flask
+🔗 [Repo](#) · 🌐 [Live Demo](#)
 
-**Technologies:** Python, Machine Learning, Pandas, Scikit-learn, FastAPI, HTML, CSS
+### 📈 Stock Scanner
+Flask-based stock scanner that collects market data and screens stocks using rule-based filters, with an investment recommendation API (live USD-INR conversion, tax/fee calculation, analyst target upside).
+**Stack:** Python · Flask · SQL · Automation
+🔗 [Repo](#) · 🌐 [Live Demo](#)
 
-### 🏡 House Price Prediction
+<br/>
 
-A machine learning project that predicts house prices using property features.
+## 📚 More Projects
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Random Forest
+- **House Price Prediction** — Random Forest vs Linear Regression on the Kaggle House Prices dataset, R² of 0.8877. [Repo](#)
+- **Customer Segmentation** — K-Means clustering of mall customers with business-oriented targeting recommendations. [Repo](#)
 
-### 👥 Customer Segmentation
+<br/>
 
-A machine learning project using **K-Means clustering** to segment customers based on their characteristics and behavior.
+## 🎯 Current Focus
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+| Building | Exploring | Goal |
+|---|---|---|
+| Real Estate AI · Stock Scanner | AI-assisted workflows · Full-stack deployment | Land a Data Scientist / AI-ML Engineer role · Ship more end-to-end deployed projects |
 
----
+<br/>
 
-## 📈 What I'm Learning
+<div align="center">
 
-* Advanced Machine Learning
-* Data Science
-* AI applications
-* FastAPI & REST APIs
-* Model deployment
-* Real-world data analysis
+## 📊 GitHub
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Gayathiri2303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9c9c9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathiri2303&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9c9c9" width="45%"/>
 
-## 🎯 Career Goal
+<br/><br/>
 
-My goal is to build a career as a **Data Scientist / Data Analyst**, where I can use mathematics, programming and machine learning to solve real-world problems.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathiri2303&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A78BFA&line=A78BFA&point=ffffff" width="90%"/>
 
----
+<br/><br/>
+
+<!-- snake animation: add the workflow below to auto-generate this -->
+<img src="https://raw.githubusercontent.com/Gayathiri2303/Gayathiri2303/output/github-contribution-grid-snake.svg" width="90%"/>
+
+<br/><br/>
+
+[**Explore My Repositories →**](https://github.com/Gayathiri2303)
+
+*Always learning · Always building · Always deploying*
+
+<br/>
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Gayathiri R](https://www.linkedin.com/in/gayathiri23)
-* 🐙 GitHub: [Gayathiri2303](https://github.com/Gayathiri2303)
+[LinkedIn](https://www.linkedin.com/in/gayathiri23) &nbsp;·&nbsp; [Email](mailto:gayathirirajkumar95@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Gayathiri2303)
 
----
+<br/>
 
-⭐ **Thanks for visiting my profile!**
+**✨ Keep Building. Keep Learning. Keep Growing.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Deploy;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
