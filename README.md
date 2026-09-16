@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gayathiri%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gayathiri%20R&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+real+deployed+projects;Turning+data+into+decisions;Exploring+Machine+Learning+%26+AI;From+notebook+to+live+deployment" alt="Typing SVG" />
-
-<br/>
-
-**🎓 B.Sc. Mathematics&nbsp; · &nbsp;🎯 Data Science & AI/ML&nbsp; · &nbsp;📍 Tamil Nadu, India**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+practical+data+%26+AI+applications;From+notebook+to+live+deployment;Python+%7C+SQL+%7C+Machine+Learning+%7C+Flask" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/gayathiri23)
-[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=A78BFA)](mailto:gayathirirajkumar95@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/Gayathiri2303)
+**🎓 B.Sc. Mathematics &nbsp;·&nbsp; 🎯 Data Science & AI/ML &nbsp;·&nbsp; 📍 Tamil Nadu, India**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gayathiriportfolio.xyz-0b1120?style=for-the-badge&logoColor=22D3EE&labelColor=0b1120&color=22D3EE)](https://gayathiriportfolio.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathiri23)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayathirirajkumar95@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayathiri2303)
 
 </div>
 
@@ -20,102 +21,105 @@
 
 ## 👋 About Me
 
-Mathematics graduate transitioning into Data Science and AI/ML engineering. I don't stop at the notebook — I take projects all the way to live deployment on cPanel and VPS. Completed a 3-month Data Science Internship building real-world web apps for property data, image processing, and AI-assisted workflows.
+Mathematics graduate with hands-on experience in **data analysis, machine learning, web scraping, automation, and application deployment**.
 
-| | |
-|---|---|
-| **Focus** | Machine Learning & Predictive Modeling · Computer Vision & Image Processing · Full-Stack Deployment (Flask, FastAPI) |
-| **Currently learning** | Advanced Machine Learning · Model Deployment at Scale · REST APIs |
-| **Mindset** | Learn → Build → Deploy → Improve |
+I focus on building practical, end-to-end projects — from data processing and model training to live web applications deployed on cPanel/VPS.
+
+- 🔭 Currently working on data & AI applications (Real Estate AI, Stock Scanner, and more)
+- 🌱 Learning advanced ML techniques and better deployment practices
+- 💼 Open to **Data Analyst / Data Scientist / AI-ML** roles
+- 🌐 Portfolio: [gayathiriportfolio.xyz](https://gayathiriportfolio.xyz)
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=python,mysql"/></p>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Backend & Database**
-<p><img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,mongodb"/></p>
+**Data Analysis & ML**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 
-**Machine Learning & Data**
-<p><img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow"/></p>
+**Web & Automation**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-**Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/></p>
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
 ## 🚀 Featured Projects
 
 ### 🏠 Real Estate AI
-Real estate application combining ML-based property price prediction, property analytics, and AI-assisted image analysis — with mortgage calculation, voice search, and image upload.
-**Stack:** Python · Machine Learning · Computer Vision · Flask
-🔗 [Repo](#) · 🌐 [Live Demo](#)
+AI-powered real estate application with property price prediction, analytics, image analysis, maps, mortgage calculator, voice search, and AI chatbot.
 
-### 🏘️ AI Property Inspection
-AI-assisted property inspection web app for property image processing, address verification, and structured inspection workflows.
-**Stack:** Python · Computer Vision · Image Processing · Flask
-🔗 [Repo](#) · 🌐 [Live Demo](#)
+**Tech:** Python · Scikit-learn · Flask · MongoDB  
+**Results:** Dataset of 500 properties · MAE ≈ $19,773 · R² = 0.3782
+
+🔗 [GitHub](https://github.com/Gayathiri2303/Real_Estate_AI) · 🌐 [Live Demo](https://realestate.gayathiriportfolio.xyz) · 📂 [Portfolio](https://gayathiriportfolio.xyz/#projects)
+
+---
 
 ### 📈 Stock Scanner
-Flask-based stock scanner that collects market data and screens stocks using rule-based filters, with an investment recommendation API (live USD-INR conversion, tax/fee calculation, analyst target upside).
-**Stack:** Python · Flask · SQL · Automation
-🔗 [Repo](#) · 🌐 [Live Demo](#)
+Flask-based stock scanner that collects market data and screens stocks using rule-based filters, with an investment recommendation API (live USD-INR conversion, tax/fee calculations).
 
-<br/>
+**Tech:** Python · Flask · SQL · Automation
 
-## 📚 More Projects
+🔗 [GitHub](https://github.com/Gayathiri2303/Stock-Scanner) · 🌐 [Live Demo](https://gayathiriportfolio.xyz/stockscanner/) · 📂 [Portfolio](https://gayathiriportfolio.xyz/#projects)
 
-- **House Price Prediction** — Random Forest vs Linear Regression on the Kaggle House Prices dataset, R² of 0.8877. [Repo](#)
-- **Customer Segmentation** — K-Means clustering of mall customers with business-oriented targeting recommendations. [Repo](#)
+---
 
-<br/>
+### 👥 Customer Segmentation
+K-Means clustering on the Mall Customers dataset (200 customers). Used Elbow Method to identify **5 customer segments** with clear business insights.
 
-## 🎯 Current Focus
+**Tech:** Python · Scikit-learn · Pandas · Matplotlib
 
-| Building | Exploring | Goal |
-|---|---|---|
-| Real Estate AI · Stock Scanner | AI-assisted workflows · Full-stack deployment | Land a Data Scientist / AI-ML Engineer role · Ship more end-to-end deployed projects |
+🔗 [GitHub](https://github.com/Gayathiri2303/customer_segmentation) · 📂 [Portfolio](https://gayathiriportfolio.xyz/#projects)
 
-<br/>
+---
 
-<div align="center">
+### 🏡 House Price Prediction
+Compared Linear Regression vs Random Forest on the Kaggle House Prices dataset (1,460 houses). Final Random Forest model achieved **R² = 0.8877**.
 
-## 📊 GitHub
+**Tech:** Python · Scikit-learn · Pandas
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gayathiri2303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9c9c9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathiri2303&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9c9c9" width="45%"/>
+🔗 [GitHub](https://github.com/Gayathiri2303/house_price_prediction) · 📂 [Portfolio](https://gayathiriportfolio.xyz/#projects)
 
-<br/><br/>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathiri2303&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A78BFA&line=A78BFA&point=ffffff" width="90%"/>
+### 🔍 AI Property Inspection
+AI-assisted property inspection web application for image upload, address verification, and structured inspection workflows.
 
-<br/><br/>
+**Tech:** Python · Computer Vision · Flask · Image Processing
 
-<!-- snake animation: add the workflow below to auto-generate this -->
-<img src="https://raw.githubusercontent.com/Gayathiri2303/Gayathiri2303/output/github-contribution-grid-snake.svg" width="90%"/>
-
-<br/><br/>
-
-[**Explore My Repositories →**](https://github.com/Gayathiri2303)
-
-*Always learning · Always building · Always deploying*
+🔗 [GitHub](https://github.com/Gayathiri2303/AI-Property-Inspection) · 🌐 [Live Demo](https://log2.gayathiriportfolio.xyz) · 📂 [Portfolio](https://gayathiriportfolio.xyz/#projects)
 
 <br/>
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/gayathiri23) &nbsp;·&nbsp; [Email](mailto:gayathirirajkumar95@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Gayathiri2303)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-22D3EE?style=for-the-badge&logoColor=0b1120&labelColor=0b1120)](https://gayathiriportfolio.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathiri23)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayathirirajkumar95@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayathiri2303)
 
 <br/>
 
-**✨ Keep Building. Keep Learning. Keep Growing.**
+**Open to Data Analyst · Data Scientist · AI/ML roles**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Deploy;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+*Learn → Build → Deploy → Improve*
 
 </div>
